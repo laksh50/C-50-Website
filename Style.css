@@ -1,0 +1,23 @@
+
+           h1{
+           color:firebrick;    
+           } 
+           h3{
+               color:chartreuse;
+           }
+           
+           .header{
+             background-color:greenyellow
+
+           }
+           .grid{
+             display:flex;
+             flex-wrap:wrap;
+             justify-content:space-evenly;  
+           }
+            .name{
+              display:flex;
+              flex-wrap:wrap;
+              justify-content:space-evenly;  
+              background-color: rgb(110, 253, 241);
+            }
